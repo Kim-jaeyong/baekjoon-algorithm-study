@@ -2,7 +2,7 @@
 
 ## Rules
 - Weekly goal: n problems
-- Use PR for review (recommended)
+- Use PR for review
 - Commit message:
   - solve: {problem} {title}
   - fix/refactor/docs
